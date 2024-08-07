@@ -18,7 +18,6 @@ Hi, I'm Rahma Fares! I'm a Full Stack Developer with a love for building innovat
 
 ## 🌐 Social Media:
 - [LinkedIn](https://www.linkedin.com/in/rahma-faris981/) 🔗
-- [Twitter](https://twitter.com/rahmafares) 🐦
 
 ## 💬 Contact Me:
 Feel free to reach out to me via [email](mailto:rahmafares365@gmail.com) for collaborations or networking.
