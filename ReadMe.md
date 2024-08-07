@@ -1,10 +1,10 @@
 
 # 💫 About Me:
-Hi, I'm Rahma Fares! I'm a Full Stack Developer with a love for building innovative and efficient solutions. When I'm not coding, you can find me exploring the latest tech trends, working on open-source projects, or indulging in my hobbies.
+Hi, I'm Rahma Fares! I'm a Full Stack Developer who loves building innovative and efficient solutions. When I'm not coding, you can find me exploring the latest tech trends, working on open-source projects, or indulging in my hobbies.
 
 ## 🎯 Interests:
-- 🌐 **Tech Enthusiast:** Always keen on learning about the latest advancements in technology.
-- 💻 **Open-Source Contributor:** Actively contributing to various open-source projects to give back to the community.
+- 🌐 **Tech Enthusiast:** Always keen on learning about the latest technological advancements.
+- 💻 **Open-Source Contributor:** Contributing to various open-source projects to give back to the community.
 - 🧠 **Problem Solver:** Enjoy tackling challenging problems and finding efficient solutions.
 - ✈️ **Traveler:** Love exploring new places and experiencing different cultures.
 - 📚 **Bookworm:** Avid reader of tech blogs, novels, and self-improvement books.
