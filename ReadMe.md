@@ -1,6 +1,4 @@
-# profile_generator.py
 
-profile_content = """
 # 💫 About Me:
 Hi, I'm Rahma Fares! I'm a Full Stack Developer with a love for building innovative and efficient solutions. When I'm not coding, you can find me exploring the latest tech trends, working on open-source projects, or indulging in my hobbies.
 
